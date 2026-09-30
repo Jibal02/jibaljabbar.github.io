@@ -1,0 +1,15 @@
+# Editor / IDE
+.vscode/
+.idea/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Folder foto mentah (4MB) - yang dipakai website ada di assets/img/
+image/
+
+# File sementara
+*.log
+*.tmp

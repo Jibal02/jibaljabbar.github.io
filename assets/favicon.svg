@@ -1,0 +1,21 @@
+<!-- Favicon pixel-art: monitor terminal dengan prompt cyan. Grid 16x16, tanpa tepi membulat. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges" role="img" aria-label="Jibal Portfolio">
+  <rect width="16" height="16" fill="#06080f"/>
+
+  <!-- frame monitor -->
+  <rect x="2" y="2" width="12" height="9" fill="#1d2a3f"/>
+  <rect x="2" y="2" width="12" height="1" fill="#2f6bff"/>
+  <rect x="3" y="3" width="10" height="7" fill="#06080f"/>
+
+  <!-- prompt ">" -->
+  <rect x="4" y="5" width="1" height="1" fill="#22d3ee"/>
+  <rect x="5" y="6" width="1" height="1" fill="#22d3ee"/>
+  <rect x="4" y="7" width="1" height="1" fill="#22d3ee"/>
+
+  <!-- cursor blok -->
+  <rect x="7" y="6" width="4" height="1" fill="#e9eef7"/>
+
+  <!-- stand monitor -->
+  <rect x="6" y="11" width="4" height="1" fill="#1d2a3f"/>
+  <rect x="4" y="12" width="8" height="1" fill="#2f6bff"/>
+</svg>
